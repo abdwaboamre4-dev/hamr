@@ -1,0 +1,15 @@
+﻿# Local Development
+server.ps1
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Temporary Files
+*.log
+*.tmp
+
+# Editor Directories
+.vscode/
+.idea/
